@@ -1,3 +1,7 @@
+# Short Link
+
+[Link](https://tinyurl.com/s29-tool)
+
 # Windows 10 Tools
 
 Here is some tools for you!
