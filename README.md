@@ -4,7 +4,7 @@ Here is some tools for you!
 
 # For Collab VM
 
-Here is some batch and vbs viruses for CollabVm
+Here is some tool for CollabVm
 
 # Cool Tools
 
